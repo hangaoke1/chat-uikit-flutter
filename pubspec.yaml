@@ -55,7 +55,7 @@ dependencies:
   url_launcher: ^6.1.4
   universal_html: ^2.2.2
   link_preview_generator: ^1.2.0
-  http: ^0.13.5
+  http: ^1.0.0
   crypto: ^3.0.2
   collection: ^1.15.0
   flutter_image_compress: ^1.1.3
